@@ -1,6 +1,6 @@
 # Customer Acceptance of Coupons
 
-Location of Pratcical Application 1 Repository
+Location of Pratcical Application 1 Repository: [https://github.com/sushikshit79/MLAIPA1/blob/main](https://github.com/sushikshit79/MLAIPA1/blob/main)
 
 ## Goal
 The goal of this application is to determine whether a customer will accept or reject a specific type of coupon based on various criteria.
