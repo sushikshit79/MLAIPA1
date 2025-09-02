@@ -46,6 +46,6 @@ Columns such as Bar, Coffeehouse, Carryaway, RestaurantLessThan20, and Restauran
 ![https://github.com/sushikshit79/MLAIPA1/blob/78c4d993f65ecf710ef330c0b30c1018e5edc976/images/coupons_presented_accepted_Rejected.png](https://github.com/sushikshit79/MLAIPA1/blob/78c4d993f65ecf710ef330c0b30c1018e5edc976/images/coupons_presented_accepted_Rejected.png)
 
 #### Visulization of temperature column
-
+![https://github.com/sushikshit79/MLAIPA1/blob/bec640ed02e1ad8c11737f89a2cae32a30351df2/images/temperature.png](https://github.com/sushikshit79/MLAIPA1/blob/bec640ed02e1ad8c11737f89a2cae32a30351df2/images/temperature.png)
 
  
