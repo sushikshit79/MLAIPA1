@@ -27,7 +27,7 @@ Columns such as Bar, Coffeehouse, Carryaway, RestaurantLessThan20, and Restauran
 
 ## Data Observation
 
-### Observation 1
+### High Level observations
 
  - After cleaning the number of entries are: 12079
  - Number of accepted coupons: 6877
@@ -40,7 +40,7 @@ Columns such as Bar, Coffeehouse, Carryaway, RestaurantLessThan20, and Restauran
  - Accepted 1881 Restaurant(<20) coupons from 2653 with acceptance rate of 70.9%The 
  - The highest rate of acceptance is for coupons **Carry out & Take away** & **Restaurant(<20)**
 
-##### Visualizations for Observation 1
+##### Visualizations for High Level observations
 ![Coupon counts for different coupons](https://github.com/sushikshit79/MLAIPA1/blob/e10a92badddefdd89009e1cb0007c749d50c4772/images/couponcount.png)
 
 
