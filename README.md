@@ -40,8 +40,12 @@ Columns such as Bar, Coffeehouse, Carryaway, RestaurantLessThan20, and Restauran
  - Accepted 1881 Restaurant(<20) coupons from 2653 with acceptance rate of 70.9%
 
 ##### Visualizations for Observation 1
-[Coupon counts for different coupons]
+![Coupon counts for different coupons](https://github.com/sushikshit79/MLAIPA1/blob/e10a92badddefdd89009e1cb0007c749d50c4772/images/couponcount.png)
 
-[https://github.com/sushikshit79/MLAIPA1/blob/78c4d993f65ecf710ef330c0b30c1018e5edc976/images/coupons_presented_accepted_Rejected.png](https://github.com/sushikshit79/MLAIPA1/blob/78c4d993f65ecf710ef330c0b30c1018e5edc976/images/coupons_presented_accepted_Rejected.png)
+
+![https://github.com/sushikshit79/MLAIPA1/blob/78c4d993f65ecf710ef330c0b30c1018e5edc976/images/coupons_presented_accepted_Rejected.png](https://github.com/sushikshit79/MLAIPA1/blob/78c4d993f65ecf710ef330c0b30c1018e5edc976/images/coupons_presented_accepted_Rejected.png)
+
+#### Visulization of temperature column
+
 
  
